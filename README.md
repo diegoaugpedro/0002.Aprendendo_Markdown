@@ -1,15 +1,21 @@
-# 0002.Aprendendo_Markdown
+# Markdown
 ### Aprendendo a trabalhar com Markdown
 
-Esse site tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README.
+Esse site tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README. Além de algumas utilizações dentro do GitHUB.
 
-- #### Afinal, o que é o README?
+- #### Afinal, o que é o MARKDOWN?
 
-Ele é, basicamente, um arquivo de texto que pode ser escrito a partir de tags HTML ou Markdown.
+Markdown é uma linguagem de marcação que, basicamente, faz alterações nos textos utilizando símbolos como asterisco (*), underline (_), til (~) e etc. Estilizando o texto de maneira similar ao glorioso HTML. Inclusive, é possível mesclar as duas linguagens de marcação tranquilamente.
 
-O README traz informações sobre seu projeto de forma geral, ou seja, é a documentação de tudo que foi feito ali. Como se fosse o cartão de visitas do seu projeto.
+- #### E esse tal de README, o que é?
 
-Para adicionar títulos utilizamos da #. Para Título usamos #, para subtítulos utilizamos ## e assim por diante. Máximo de utilização são 6 vezes. Similiar a TAG "h" do HTML, o Markdown possui os mesmos níveis de cabeçalhos do HTML que vão de "h1" até "h6".
+Ele é, basicamente, um arquivo de texto que pode ser escrito a partir de tags HTML ou Markdown. O README traz informações sobre seu projeto de forma geral, ou seja, é a documentação que indica por qual motivo você criou aquele projeto, o que ele faz, quais ferramentas utilizou, o que é preciso para que utilizem e por aí vai. Como se esse  arquivo fosse o "cartão de visitas" do seu projeto.
+
+- ##### HEADER - TÍTULOS
+
+Para criar títulos utilizamos o símbolo "hashtag"(#). Para cada "hashtag"(#) adicionada definimos um nível para o título, que pode atingir o máximo de 6 "hashtags"(#), similar ao "h1" ao "h6" que temos no HTML. A ideia também é a mesma, organizar corretamente o conteúdo do site.
+
+##### Exemplo:
 
 # Título1
 ## Título2
@@ -18,7 +24,23 @@ Para adicionar títulos utilizamos da #. Para Título usamos #, para subtítulos
 ##### Título5
 ###### Título6
 
-Dois asteriscos (*) ou dois underlines (_) transformam a palavra MARKDOWN em negrito.
+- ##### NEGRITO
+
+Para estilizarmos o texto com **NEGRITO** utilizamos 2 asteriscos (*) ou 2 underlines (_), no início e no fim do texto. Assim, o que estiver entre os asteriscos (*) ou underlines(_) ficará em **NEGRITO**
+
+##### Exemplo:
+
+__Texto em Negrito__
+**Texto em Negrito**
+
+- ##### ITÁLICO
+
+Para estilizarmos o texto com <em>ITÁLICO</em> utilizamos 1 asterisco (*) ou 1 underline (_), no
+            início e no fim do texto. Assim, o que estiver entre o asterisco (*) ou underline (_) ficará em <em>
+                ITÁLICO</em>.</p>
+        <h5>Exemplo:</h5>
+        <img src="img/Italic_M.PNG" alt="Marcação para itálico" title="Marcação para itálico"><br>
+        <img src="img/Italic_R.PNG" alt="Resultado de itálico em Markdown" title="Resultado de itálico em Markdown">
 
 Apenas um underline (_) ou um asterisco (*) transformam a palavra MARKDOWN em itálico.
 
