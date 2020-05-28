@@ -1,7 +1,7 @@
 # Markdown
 ### Aprendendo a trabalhar com Markdown
 
-Esse site tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README. Além de algumas utilizações dentro do GitHUB.
+O [site]:(https://diegoaugpedro.github.io/0002.Aprendendo_Markdown/) tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README. Além de algumas utilizações dentro do GitHUB.
 
 - #### Afinal, o que é o MARKDOWN?
 
@@ -135,7 +135,7 @@ Para inserirmos um bloco de código utilizamos a crase (`). Ela transforma o tex
 
 - ##### FUGINDO DA ESTILIZAÇÃO
 
-Vimos que os símbolos são utilizados para tratar da estilização do texto, mas como faremos se quisermos mostrar exatamente o símbolo sem seu efeito de formatação? Nesse caso, temos que fazer uso da barra invertida (\) antes do símbolo. Com isso, seu efeito de formatação é "cancelado".
+Vimos que os símbolos são utilizados para tratar da estilização do texto, mas como faremos se quisermos mostrar exatamente o símbolo sem seu efeito de formatação? Nesse caso, temos que fazer uso da barra invertida antes do símbolo. Com isso, seu efeito de formatação é "cancelado".
 
 ##### Exemplo:
 <img src="img/SemSimb_M.PNG" alt="Texto sem estilização" title="Texto sem estilização"></br>
@@ -143,7 +143,7 @@ Vimos que os símbolos são utilizados para tratar da estilização do texto, ma
 
 - ##### E MAIS...
 
-Aqui no GITHUB, exato, aqui mesmo. Podemos criar checkboxes que utilizamos para montar listas de tarefas além de referências de <em>issues</em> e/ou <em>pull requests</em> utilizando apenas uma "hastag" (#) e o nome da issues / pull request. É possível mencionar usuários nos comentários utilizando o arroba (@). Dá pra utilizar até <em>emojis</em>. Também é possível utilizar todos as outras estilizações mostradas aqui.
+Aqui no GITHUB, exato, aqui mesmo. Podemos criar checkboxes que utilizamos para montar listas de tarefas além de referências de <em>issues</em> e/ou <em>pull requests</em> utilizando apenas uma "hastag" (#) e o nome da issues / pull request. É possível mencionar usuários nos comentários utilizando o arroba (@). Dá pra utilizar até <em>emojis</em>. Também é possível utilizar todos as outras estilizações mostradas até aqui.
 
 ##### Exemplo:
 <img src="img/ListC_M.PNG" alt="Marcação no GitHUB" title="Marcação no GitHUB"><br>
