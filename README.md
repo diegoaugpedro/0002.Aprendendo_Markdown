@@ -1,7 +1,7 @@
 # Markdown
 ### Aprendendo a trabalhar com Markdown
 
-O [site]:(https://diegoaugpedro.github.io/0002.Aprendendo_Markdown/) tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README. Além de algumas utilizações dentro do GitHUB.
+O [site](https://diegoaugpedro.github.io/0002.Aprendendo_Markdown/) tem intuito de mostrar as maneiras que o Markdown pode ser utilizado para formatar seu arquivo README. Além de algumas utilizações dentro do GitHUB.
 
 - #### Afinal, o que é o MARKDOWN?
 
