@@ -11,12 +11,12 @@ O README traz informações sobre seu projeto de forma geral, ou seja, é a docu
 
 Para adicionar títulos utilizamos da #. Para Título usamos #, para subtítulos utilizamos ## e assim por diante. Máximo de utilização são 6 vezes. Similiar a TAG "h" do HTML, o Markdown possui os mesmos níveis de cabeçalhos do HTML que vão de "h1" até "h6".
 
-# Título - usando # uma vez
-## Título - usando # duas vezes
-### Título - usando # três vezes
-#### Título - usando # quatro vezes
-##### Título - usando # cinco vezes
-###### Título - usando # seis vezes
+# Título1
+## Título2
+### Título3
+#### Título4
+##### Título5
+###### Título6
 
 Dois asteriscos (*) ou dois underlines (_) transformam a palavra MARKDOWN em negrito.
 
