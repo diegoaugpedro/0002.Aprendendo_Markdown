@@ -27,13 +27,19 @@ Para criar títulos utilizamos o símbolo "hashtag"(#). Para cada "hashtag"(#) a
 ##### Título5
 ###### Título6
 
+<img src="img/Header_M.PNG" alt="Marcação para títulos" title="Marcação para títulos"></br>
+        <img src="img/Header_R.PNG" alt="Resultado de título em Markdown" title="Resultado de título em Markdown">
+
 - ##### NEGRITO
 
 Para estilizarmos o texto com **NEGRITO** utilizamos 2 asteriscos (*) ou 2 underlines (_), no início e no fim do texto. Assim, o que estiver entre os asteriscos (*) ou underlines(_) ficará em **NEGRITO**
 
 ##### Exemplo:
 
-__Texto em Negrito__
+<img src="img/Bolder_M.PNG" alt="Marcação para negrito" title="Marcação para negrito"><br>
+        <img src="img/Bolder_R.PNG" alt="Resultado de negrito em Markdown" title="Resultado de negrito em Markdown">
+
+__Texto em Negrito__  
 **Texto em Negrito**
 
 - ##### ITÁLICO
