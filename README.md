@@ -49,8 +49,8 @@ Para estilizarmos o texto com <em>ITÁLICO</em> utilizamos 1 asterisco (*) ou 1 
 
 - ##### RISCADO
 
-Para estilizarmos o texto com <del>RISCADO</del> utilizamos 2 tils (~), no início e no fim do texto. Assim, o
-que estiver entre o til (~) ficará <del>RISCADO</del>.
+Para estilizarmos o texto com RISCADO utilizamos 2 tils (\~), no início e no fim do texto. Assim, o
+que estiver entre o til (\~) ficará RISCADO.
 
 ##### Exemplo
 <img src="img/Riscado_M.PNG" alt="Marcação para riscado" title="Marcação para riscado"><br>
@@ -98,7 +98,7 @@ Para adicionarmos um link utilizamos colchetes [] e parênteses (), onde o colch
 
 - ##### IMAGENS
 
-Para adicionar imagens utilizamos de sinal de exclamação (!), colchetes [] e parênteses. Entretanto, podemos fazer isso de 4 maneiras diferentes:
+Para adicionar imagens utilizamos de sinal de exclamação (!), colchetes [] e parênteses (). Entretanto, podemos fazer isso de 4 maneiras diferentes:
 
 - ###### Simples!
 <img src="img/Simples_M.PNG" alt="Marcação para imagens" title="Marcação para imagens"><br>
@@ -117,12 +117,9 @@ Para adicionar imagens utilizamos de sinal de exclamação (!), colchetes [] e p
 
 Para criamos tabelas utilizamos o símbolo pipe ( | ). Com ele separaremos as colunas da tabela. As linhas são criadas após de maneira "automatica" conforme pressionamos ENTER e inserimos um novo conjunto de pipe ( | ). Para definirmos o alinhamento de cada coluna utilizamos a seguinte configuração:
 
-        <ul>
-            <li>Para alinhamento a ESQUERDA utilizamos dois pontos (:) seguidos de hífen (-) <b>|:-|</b></li>
-            <li>Para alinhamento a DIREITA utilizamos hífen (-) seguido de dois pontos (:) <b>|-:|</b></li>
-            <li>Para alinhamento a CENTRALIZADO utilizamos dois pontos (:), hífen (-) e dois pontos (:) novamente
-                <b>|:-:|</b></li>
-        </ul>
+* Para alinhamento a ESQUERDA utilizamos dois pontos (:) seguidos de hífen (-) |:-|
++ Para alinhamento a DIREITA utilizamos hífen (-) seguido de dois pontos (:) |-:|
+- Para alinhamento a CENTRALIZADO utilizamos dois pontos (:), hífen (-) e dois pontos (:) novamente|:-:|
         
 ##### Exemplo:
 <img src="img/Tabela_M.PNG" alt="Marcação para tabela" title="Marcação para tabela"><br>
@@ -146,80 +143,15 @@ Vimos que os símbolos são utilizados para tratar da estilização do texto, ma
 
 - ##### E MAIS...
 
-Aqui no <a href="githhttps://github.com/" title="Site GitHUB">GITHUB</a>, exato, aqui mesmo. Podemos criar checkboxes que utilizamos para montar listas de tarefas além de referências de <em>issues</em> e/ou <em>pull requests</em> utilizando apenas uma "hastag" (#) e o nome da issues / pull request. É possível mencionar usuários nos comentários utilizando o arroba (@). Dá pra utilizar até <em>emojis</em>. Também é possível utilizar todos as outras estilizações mostradas aqui.
+Aqui no GITHUB, exato, aqui mesmo. Podemos criar checkboxes que utilizamos para montar listas de tarefas além de referências de <em>issues</em> e/ou <em>pull requests</em> utilizando apenas uma "hastag" (#) e o nome da issues / pull request. É possível mencionar usuários nos comentários utilizando o arroba (@). Dá pra utilizar até <em>emojis</em>. Também é possível utilizar todos as outras estilizações mostradas aqui.
 
 ##### Exemplo:
 <img src="img/ListC_M.PNG" alt="Marcação no GitHUB" title="Marcação no GitHUB"><br>
 <img src="img/ListC_R.PNG" alt="Resultado no GitHUB" title="Resultado no GitHUB">
 
 Mas como vou decorar os códigos dos emojis?!?
-Não se preocupe, aqui segue um site com lista de diversos emojis para utilizar: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" alt="Site com código de emojis" title="Site com códigos para emojis">EMOJIS</a>
+Não se preocupe, aqui segue um site com lista de diversos emojis para utilizar: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" alt="Site com código de emojis" title="Site com códigos para emojis">EMOJIS</a>.
 
 ##### Bem, espero que esse conteúdo lhe ajude de alguma forma! Se puder, compartilhe com mais pessoas. Repasse o conhecimento! Forte abraço e LET's CODE!
 
-##### Criado por Diego Augusto Pedro - <a href="#top" alt="Para o topo" title="Para o topo"><img src="img/UP.png"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Apenas um underline (_) ou um asterisco (*) transformam a palavra MARKDOWN em itálico.
-
-Dois tils (~) transforma a palavra MARKDOWN em riscado.
-
-O sinal de maior (>) cria um bloco de citação.
-
-É possível utilizando a combinação de dois underlines (_) e um asterisco (*) ou a combinação de dois asteriscos (*) e um underline (_).
-
-Os caracteres utilizados para criar linhas horizontais são asteriscos (*), underline (_) e traços (-). 
-
-O Markdown identifica uma linha horizontal a partir do terceiro caractere.
-
-Você pode espaçar desde que tenha pelo menos 03 caracteres.
-
-Correto, adicionando um TAB ou dois espaços na frente do tem, o Markdown identifica como subitem.
-
-Lista ordenada
-Basta adicionar os números antes dos items para transformá-los em uma lista ordenada.
-
-O resultado será uma lista com 03 items, numerados de 1 à 3, pois o Markdown ignora a continuação da lista.
-
-link
-O correto é utilizar colchetes para o texto que será exibido no link e parênteses para o endereço do link.
-
-O texto alternativo deve ser inserido após o endereço do link dentro de aspas duplas.
-
-Podemos utilizar variáveis utilizando colchetes.
-
-Imagens
-Precisamos adicionar o sinal de exclamação (!) no início.
-
-Da mesma forma que os links, podemos utilizar colchetes para utilizar variáveis.
-imagem com link
-Devemos envolver a imagem dentro de colchetes e adicionar o endereço do link dentro de parênteses,mas fora dos colchetes.
-
-Tabelas
-O pipe separa as colunas.
-
-Alinhamento do texto na tabela
-Para alinhar ao centro, devemos utilizar | :-: |.
-
-Bloco de códigos
-Crase transforma o texto em bloco de código.
-É necessário adicionar 03 crases no início e no fim do bloco.
-Não podemos misturar duas ou mais linguagens em um mesmo bloco de código. Para isso devemos criar dois blocos de códigos separados.
-
-Dentro do GITHUB Exato, ele permite a criação de checkboxes, referências de issues e pull requests e até emojis.
-
-Praticando Markdown - Baseado no curso de Roberto Achar - Markdown pela Udemy
+##### Criado por Diego Augusto Pedro <a href="#top" alt="Para o topo" title="Para o topo"><img src="img/UP.png"></a>
